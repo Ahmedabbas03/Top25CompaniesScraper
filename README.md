@@ -15,5 +15,5 @@ This Python script scrapes data from Wikipedia to retrieve a list of the largest
 - Web scraping is performed using BeautifulSoup, a Python library for pulling data out of HTML and XML files.
 
 ## Example Screenshot
-<img width="600" alt="Screenshot 2024-03-08 at 5 01 03 PM" src="https://github.com/Ahmedabbas03/Top25CompaniesScraper/assets/86217781/29ce2e3a-8c0c-4682-8ba5-812b4b4ff7cc">
 <img width="600" alt="Screenshot 2024-03-08 at 5 00 16 PM" src="https://github.com/Ahmedabbas03/Top25CompaniesScraper/assets/86217781/e8e1213e-4b68-4a21-9b7f-2a962d5b07d0">
+<img width="600" alt="Screenshot 2024-03-08 at 5 01 03 PM" src="https://github.com/Ahmedabbas03/Top25CompaniesScraper/assets/86217781/29ce2e3a-8c0c-4682-8ba5-812b4b4ff7cc">
